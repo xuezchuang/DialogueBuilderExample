@@ -1,0 +1,3 @@
+[submodule "DialogueBuilder"]
+	path = Plugins/DialogueBuilder
+	url = https://github.com/xuezchuang/DialogueBuilder.git
